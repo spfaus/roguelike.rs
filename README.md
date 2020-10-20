@@ -1,2 +1,2 @@
 # rust-lang-practice
-Learning the programming language Rust
+Learning the programming language Rust 🦀
